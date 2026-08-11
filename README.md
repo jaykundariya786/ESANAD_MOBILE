@@ -1,1 +1,1 @@
-# ESANAD_MOBILE
+# sanad-customer-app
